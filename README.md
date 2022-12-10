@@ -36,7 +36,7 @@
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bkpecho&theme=dark" alt="bkpecho" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bkpecho&theme=dark" alt="bkpecho" />
 </details>
 
 <details>	
