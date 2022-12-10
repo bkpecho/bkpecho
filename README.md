@@ -33,6 +33,7 @@ I'm a BS Information Technology student from Cavite State University. A passiona
 </p>
 
 </br>
+&nbsp;
 
 <h2>📊 Github Stats and Activity</h2>
 
