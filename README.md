@@ -16,54 +16,74 @@ I'm a BS Information Technology student from Cavite State University. A passiona
 - 📫 Email me at **pechobk@gmail.com**
 
 
-<h2>🔧 Technologies & Tools</h2>
-
+<h2>🛠️ Tools and Technologies</h2>
 <table>
   <tr>
     <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
-        width="48"
-        height="48"
-        alt="C"
-      />
-      <br /><strong>C</strong>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="48px" height="48px" />
+      <br />
+      <strong>C</strong>
     </td>
-  
-   <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-        width="48"
-        height="48"
-        alt="Java"
-      />
-      <br /><strong>Java</strong>
-    </td>
-   <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
-        width="48"
-        height="48"
-        alt="CSS3"
-      />
-      <br /><strong>CSS3</strong>
-    </td>
-    
     <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
-        width="48"
-        height="48"
-        alt="JavaScript"
-      />
-      <br /><strong>JavaScript</strong>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="48px" height="48px"  />
+       <br />
+      <strong>Java</strong>
     </td>
-  
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML" width="48px" height="48px"  />
+       <br />
+      <strong>HTML</strong>
+   </td>
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" width="48px" height="48px"  />
+      <br />
+      <strong>CSS</strong> 
+   </td>
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="48px" height="48px"  />
+      <br />
+      <strong>JavaScript</strong> 
+   </td>
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="48px" height="48px"  />
+      <br />
+      <strong>Vue.js</strong> 
+   </td>
   </tr>
-</table>
-
-
-</br>
+  <tr>
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="48px" height="48px"  />
+      <br />
+      <strong>Firebase</strong> 
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="48px" height="48px"  />
+   <br />
+      <strong>Android</br>Studio</strong>  
+   </td>
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="48px" height="48px"  />
+   <br />
+      <strong>VS Code</strong>  
+   </td>
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48px" height="48px"  />
+   <br />
+      <strong>Git</strong>  
+   </td>
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="48px" height="48px"  />
+   <br />
+      <strong>GitHub</strong>  
+   </td>
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="48px" height="48px"  />
+   <br />
+      <strong>Linux</strong>  
+   </td>
+  </tr>
+ </table>
+ 
 &nbsp;
 
 <h2>📊 Github Stats and Activity</h2>
