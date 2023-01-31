@@ -1,7 +1,7 @@
 # 🌃 BK
 <h2>“Passion. Purpose. Progress.”</h2> 
 
-I'm a BS Information Technology student from Cavite State University. A passionate learner who's always willing to learn and work across technologies and domains, explore new technologies and leverage them to solve real-life problems. I'm currently into Web Development, building my version of the digital world one step at a time. ✨
+Creative, detail-oriented, software engineer with a deep interest in AI. A passionate learner who's always willing to learn and work across technologies and domains, explore new technologies and leverage them to solve real-life problems. I'm currently into Web Development, building my version of the digital world one step at a time. ✨
 <p align="center">
  <a href="https://linkedin.com/in/bkpecho" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="bkpecho" height="25" width="35" /></a>
 <a href="https://fb.com/bkpecho" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="bkpecho" height="25" width="35" /></a>
@@ -9,7 +9,6 @@ I'm a BS Information Technology student from Cavite State University. A passiona
 </p>
 
 ---
-- 🔭 I’m currently working on [iCargo Pacific Website](https://github.com/icargo63/icargo-pacific)
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
