@@ -1,7 +1,9 @@
-<h1 align="center">🌃 BK
-<h2 align="center">“Passion. Purpose. Progress.”</h2> 
+<h1>🌃 BK</h1>
 
-Creative, detail-oriented, software engineer with a deep interest in AI. A passionate learner who's always willing to learn and work across technologies and domains, explore new technologies and leverage them to solve real-life problems. I'm currently into Web Development, building my version of the digital world one step at a time. ✨
+<strong align="center">“Passion. Purpose. Progress.”</strong> 
+
+As a creative and detail-oriented software engineer with a deep interest in AI, I bring a passion for learning and a drive to tackle real-world problems. I am eager to work across technologies and domains, leveraging new innovations to create innovative solutions. Currently, I am focused on web development and am dedicated to building my version of the digital world one step at a time. 💻✨
+ 
 <p align="center">
  <a href="https://linkedin.com/in/bkpecho" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="bkpecho" height="25" width="35" /></a>
 <a href="https://fb.com/bkpecho" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="bkpecho" height="25" width="35" /></a>
