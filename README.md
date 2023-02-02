@@ -1,5 +1,5 @@
-# 🌃 BK
-<h2>“Passion. Purpose. Progress.”</h2> 
+<h1 align="center">🌃 BK
+<h2 align="center">“Passion. Purpose. Progress.”</h2> 
 
 Creative, detail-oriented, software engineer with a deep interest in AI. A passionate learner who's always willing to learn and work across technologies and domains, explore new technologies and leverage them to solve real-life problems. I'm currently into Web Development, building my version of the digital world one step at a time. ✨
 <p align="center">
