@@ -1,5 +1,4 @@
 <img src="https://imgur.com/K9bSzSj.jpeg" width="100%">
-<h1>🌃 BK</h1>
 
 <strong align="center">“Passion. Purpose. Progress.”</strong> 
 
@@ -88,12 +87,12 @@ As a creative and detail-oriented software engineer with a deep interest in AI, 
  
 &nbsp;
 
-<h2>🔥 Streak Stats</h2>
+<h2>🌃 Streak Stats</h2>
 
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="BK Pecho's streak" src="https://streak-stats.demolab.com/?user=bkpecho&theme=prussian&fire=white&ring=white&hide_border=true"/>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="BK Pecho's streak" src="https://streak-stats.demolab.com/?user=bkpecho&theme=prussian&background=09344D&fire=white&ring=white&sideNums=white&sideLabels=white&dates=667BCD&hide_border=true"/>
     </a>
   </p>
 
