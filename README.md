@@ -14,7 +14,7 @@ As a creative and detail-oriented software engineer with a deep interest in AI, 
  
 ---
 
-<h4>🛠️ Tools and Technologies 🌐</h4>
+<h3>🛠️ Tools and Technologies 🌐</h3>
 <table>
   <tr>
     <td align="center" height="96" width="96">
@@ -83,7 +83,7 @@ As a creative and detail-oriented software engineer with a deep interest in AI, 
  </table>
  
 
-<h4>🌃 Streak Stats</h4>
+<h3>👨‍💻 Streak Stats 🔥</h3>
 
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
