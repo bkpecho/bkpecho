@@ -2,6 +2,7 @@
 
 <p align="center">
  <a href="https://linkedin.com/in/bkpecho" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="bkpecho" height="25" width="35" /></a>
+<a href="https://www.twitter.com/bkpecho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kolehiyolo" height="25" width="35" /></a>
 <a href="https://fb.com/bkpecho" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="bkpecho" height="25" width="35" /></a>
 <a href="https://www.youtube.com/c/kolehiyolo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kolehiyolo" height="25" width="35" /></a>
 </p>
