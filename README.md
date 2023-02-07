@@ -1,10 +1,10 @@
 <img src="https://imgur.com/K9bSzSj.jpeg" width="100%">
 
 <p align="center">
- <a href="https://linkedin.com/in/bkpecho" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="bkpecho" height="25" width="35" /></a>
-<a href="https://www.twitter.com/bkpecho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kolehiyolo" height="25" width="35" /></a>
-<a href="https://fb.com/bkpecho" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="bkpecho" height="25" width="35" /></a>
-<a href="https://www.youtube.com/c/kolehiyolo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kolehiyolo" height="25" width="35" /></a>
+ <a href="https://linkedin.com/in/bkpecho" target="blank"><img src="https://img.shields.io/static/v1?label=|&message=LINKEDIN&color=09344D&style=for-the-badge&logo=linkedin"/></a>
+<a href="https://www.twitter.com/bkpecho" target="blank"><img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=09344D&style=for-the-badge&logo=twitter"/></a>
+<a href="https://fb.com/bkpecho" target="blank"><img src="https://img.shields.io/static/v1?label=|&message=FACEBOOK&color=09344D&style=for-the-badge&logo=facebook"/></a>
+<a href="https://www.youtube.com/c/kolehiyolo" target="blank"><img src="https://img.shields.io/static/v1?label=|&message=YOUTUBE&color=09344D&style=for-the-badge&logo=youtube&logoColor=red"/></a>
 </p>
 
 <p align=center>
@@ -17,7 +17,7 @@ As a creative and detail-oriented software engineer with a deep interest in AI, 
 
 <h3>🛠️ Tools and Technologies 🌐</h3>
 <p align="center">
-    <img src="https://img.shields.io/static/v1?label=|&message=JAVA&color=09344D&&style=plastic&logo=android"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=JAVA&color=09344D&style=plastic&logo=android"/>
     <img src="https://img.shields.io/static/v1?label=|&message=C&color=09344D&style=plastic&logo=c"/>
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=09344D&style=plastic&logo=html5"/>
     <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=09344D&logoColor=blue&style=plastic&logo=css3"/>
