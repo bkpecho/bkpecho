@@ -17,8 +17,8 @@ As a creative and detail-oriented software engineer with a deep interest in AI, 
 
 <h3>🛠️ Tools and Technologies 🌐</h3>
 <p align="center">
-    <img src="https://img.shields.io/static/v1?label=|&message=JAVA&color=09344D&logoColor=red&palstic&logo=probot"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=C&color=09344D&logoColor=white&plastic&logo=c"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=JAVA&color=09344D&&style=plastic&logo=android"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=C&color=09344D&style=plastic&logo=c"/>
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=09344D&style=plastic&logo=html5"/>
     <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=09344D&logoColor=blue&style=plastic&logo=css3"/>
     <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=09344D&style=plastic&logo=javascript"/>
@@ -30,11 +30,14 @@ As a creative and detail-oriented software engineer with a deep interest in AI, 
     <img src="https://img.shields.io/static/v1?label=|&message=POSTGRE-SQL&color=09344D&style=plastic&logo=postgresql"/>
     <img src="https://img.shields.io/static/v1?label=|&message=MYSQL&color=09344D&logoColor=gold&style=plastic&logo=mysql"/>
     <img src="https://img.shields.io/static/v1?label=|&message=FIREBASE&color=09344D&style=plastic&logo=firebase"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=ANDROID STUDIO&color=09344D&style=plastic&logo=android"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=ANDROID STUDIO&color=09344D&style=plastic&logo=android studio"/>
     <img src="https://img.shields.io/static/v1?label=|&message=VS CODE&color=09344D&logoColor=blue&style=plastic&logo=visual studio code"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=09344D&style=plastic&logo=git"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GITHUB&color=09344D&style=plastic&logo=github"/>
     <img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=09344D&style=plastic&logo=linux"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=UBUNTU&color=09344D&style=plastic&logo=ubuntu"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=POP!_OS&color=09344D&style=plastic&logo=pop!_os"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=BASH&color=09344D&logoColor=white&style=plastic&logo=gnu bash"/>
     <img src="https://img.shields.io/static/v1?label=|&message=ADOBE&color=09344D&style=plastic&logo=adobe"/>
 </p>
  
