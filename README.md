@@ -2,9 +2,9 @@
 
 <p align="center">
  <a href="https://linkedin.com/in/bkpecho" target="blank"><img src="https://img.shields.io/static/v1?label=|&message=LINKEDIN&color=09344D&style=for-the-badge&logo=linkedin"/></a>
-<a href="https://www.twitter.com/bkpecho" target="blank"><img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=09344D&style=for-the-badge&logo=twitter"/></a>
-<a href="https://fb.com/bkpecho" target="blank"><img src="https://img.shields.io/static/v1?label=|&message=FACEBOOK&color=09344D&style=for-the-badge&logo=facebook"/></a>
-<a href="https://www.youtube.com/c/kolehiyolo" target="blank"><img src="https://img.shields.io/static/v1?label=|&message=YOUTUBE&color=09344D&style=for-the-badge&logo=youtube&logoColor=red"/></a>
+<a href="https://www.twitter.com/bkpecho" target="blank"><img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=09344D&style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://fb.com/bkpecho" target="blank"><img src="https://img.shields.io/static/v1?label=|&message=FACEBOOK&color=09344D&style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://www.youtube.com/c/kolehiyolo" target="blank"><img src="https://img.shields.io/static/v1?label=|&message=YOUTUBE&color=09344D&style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
 <p align=center>
