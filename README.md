@@ -16,72 +16,27 @@ As a creative and detail-oriented software engineer with a deep interest in AI, 
 ---
 
 <h3>🛠️ Tools and Technologies 🌐</h3>
-<table>
-  <tr>
-    <td align="center" height="96" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="36px" height="36px" />
-      <br />
-      <strong>C</strong>
-    </td>
-    <td align="center" height="96" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="36px" height="36px"  />
-       <br />
-      <strong>Java</strong>
-    </td>
-    <td align="center" height="96" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML" width="36px" height="36px"  />
-       <br />
-      <strong>HTML</strong>
-   </td>
-    <td align="center" height="96" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" width="36px" height="36px"  />
-      <br />
-      <strong>CSS</strong> 
-   </td>
-    <td align="center" height="96" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="36px" height="36px"  />
-      <br />
-      <strong>JavaScript</strong> 
-   </td>
-    <td align="center" height="96" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="36px" height="36px"  />
-      <br />
-      <strong>Vue.js</strong> 
-   </td>
-  </tr>
-  <tr>
-    <td align="center" height="96" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="36px" height="36px"  />
-      <br />
-      <strong>Firebase</strong> 
-    </td>
-    <td align="center" height="96" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="36px" height="36px"  />
-   <br />
-      <strong>Android</br>Studio</strong>  
-   </td>
-    <td align="center" height="96" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="36px" height="36px"  />
-   <br />
-      <strong>VS Code</strong>  
-   </td>
-    <td align="center" height="96" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="36px" height="36px"  />
-   <br />
-      <strong>Git</strong>  
-   </td>
-    <td align="center" height="96" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="36px" height="36px"  />
-   <br />
-      <strong>GitHub</strong>  
-   </td>
-    <td align="center" height="96" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="36px" height="36px"  />
-   <br />
-      <strong>Linux</strong>  
-   </td>
-  </tr>
- </table>
+<p align="center">
+    <img src="https://img.shields.io/static/v1?label=|&message=JAVA&color=09344D&logoColor=red&palstic&logo=probot"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=C&color=09344D&logoColor=white&plastic&logo=c"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=09344D&style=plastic&logo=html5"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=09344D&logoColor=blue&style=plastic&logo=css3"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=09344D&style=plastic&logo=javascript"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=VUE.JS&color=09344D&style=plastic&logo=vue.js"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=09344D&style=plastic&logo=react"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REACT NATIVE&color=09344D&style=plastic&logo=react"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=NODE.JS&color=09344D&style=plastic&logo=node.js"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=09344D&style=plastic&logo=mongodb"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=POSTGRE-SQL&color=09344D&style=plastic&logo=postgresql"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=MYSQL&color=09344D&logoColor=gold&style=plastic&logo=mysql"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=FIREBASE&color=09344D&style=plastic&logo=firebase"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=ANDROID STUDIO&color=09344D&style=plastic&logo=android"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=VS CODE&color=09344D&logoColor=blue&style=plastic&logo=visual studio code"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=09344D&style=plastic&logo=git"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=GITHUB&color=09344D&style=plastic&logo=github"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=09344D&style=plastic&logo=linux"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=ADOBE&color=09344D&style=plastic&logo=adobe"/>
+</p>
  
 
 <h3>👨‍💻 Streak Stats 🔥</h3>
