@@ -30,6 +30,7 @@ As a creative and detail-oriented software engineer with a deep interest in AI, 
     <img src="https://img.shields.io/static/v1?label=|&message=POSTGRE-SQL&color=09344D&style=plastic&logo=postgresql"/>
     <img src="https://img.shields.io/static/v1?label=|&message=MYSQL&color=09344D&logoColor=gold&style=plastic&logo=mysql"/>
     <img src="https://img.shields.io/static/v1?label=|&message=FIREBASE&color=09344D&style=plastic&logo=firebase"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=NETLIFY&color=09344D&style=plastic&logo=netlify"/>
     <img src="https://img.shields.io/static/v1?label=|&message=ANDROID STUDIO&color=09344D&style=plastic&logo=android studio"/>
     <img src="https://img.shields.io/static/v1?label=|&message=VS CODE&color=09344D&logoColor=blue&style=plastic&logo=visual studio code"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=09344D&style=plastic&logo=git"/>
