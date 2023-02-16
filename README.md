@@ -22,6 +22,7 @@ As a creative and detail-oriented software engineer with a deep interest in AI, 
     <img src="https://img.shields.io/static/v1?label=|&labelColor=09344D&message=HTML5&color=09344D&style=flat&logo=html5"/>
     <img src="https://img.shields.io/static/v1?label=|&labelColor=09344D&message=CSS3&color=09344D&logoColor=blue&style=flat&logo=css3"/>
     <img src="https://img.shields.io/static/v1?label=|&labelColor=09344D&message=SASS&color=09344D&style=flat&logo=sass"/>
+    <img src="https://img.shields.io/static/v1?label=|&labelColor=09344D&message=BEM&color=09344D&style=flat&logo=bem"/>
     <img src="https://img.shields.io/static/v1?label=|&labelColor=09344D&message=JAVASCRIPT&color=09344D&style=flat&logo=javascript"/>
     <img src="https://img.shields.io/static/v1?label=|&labelColor=09344D&message=VUE.JS&color=09344D&style=flat&logo=vue.js"/>
     <img src="https://img.shields.io/static/v1?label=|&labelColor=09344D&message=REACT.JS&color=09344D&style=flat&logo=react"/>
