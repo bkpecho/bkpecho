@@ -3,8 +3,8 @@
 <p align="center">
  <a href="https://linkedin.com/in/bkpecho" target="blank"><img src="https://img.shields.io/static/v1?label=|&labelColor=09344D&message=LINKEDIN&color=09344D&style=for-the-badge&logo=linkedin"/></a>
 <a href="https://www.twitter.com/bkpecho" target="blank"><img src="https://img.shields.io/static/v1?label=|&labelColor=09344D&message=TWITTER&color=09344D&style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://fb.com/bkpecho" target="blank"><img src="https://img.shields.io/static/v1?label=|&labelColor=09344D&message=FACEBOOK&color=09344D&style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="https://www.youtube.com/c/kolehiyolo" target="blank"><img src="https://img.shields.io/static/v1?label=|&labelColor=09344D&message=YOUTUBE&color=09344D&style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://www.frontendmentor.io/profile/bkpecho" target="blank"><img src="https://img.shields.io/static/v1?label=|&labelColor=09344D&message=FRONTEND MENTOR&color=09344D&style=for-the-badge&logo=frontend mentor&logoColor=white"/></a>
+<a href="https://www.codewars.com/users/bkpecho" target="blank"><img src="https://img.shields.io/static/v1?label=|&labelColor=09344D&message=CODEWARS&color=09344D&style=for-the-badge&logo=codewars&logoColor=white"/></a>
 </p>
 
 <p align=center>
