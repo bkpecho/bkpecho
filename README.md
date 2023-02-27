@@ -24,10 +24,11 @@ As a creative and detail-oriented software engineer with a deep interest in AI, 
     <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=SASS&color=09344D&style=plastic&logo=sass"/>
     <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=BEM&color=09344D&style=plastic&logo=bem"/>
     <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=JAVASCRIPT&color=09344D&style=plastic&logo=javascript"/>
+    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=MONGO-DB&color=09344D&style=plastic&logo=mongodb"/>
+    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=EXPRESS.JS&color=09344D&style=plastic&logo=express"/>
     <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=REACT.JS&color=09344D&style=plastic&logo=react"/>
     <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=REACT NATIVE&color=09344D&style=plastic&logo=react"/>
     <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=NODE.JS&color=09344D&style=plastic&logo=node.js"/>
-    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=MONGO-DB&color=09344D&style=plastic&logo=mongodb"/>
     <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=POSTGRESQL&color=09344D&style=plastic&logo=postgresql"/>
     <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=VUE.JS&color=09344D&style=plastic&logo=vue.js"/>
     <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=FIREBASE&color=09344D&style=plastic&logo=firebase"/>
