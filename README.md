@@ -17,39 +17,50 @@ As a creative and detail-oriented software engineer with a deep interest in AI, 
  
 ---
 
-<h3>🛠️ Tools and Technologies 🌐</h3>
-<p align="center">
-    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=HTML5&color=09344D&style=flat&logo=html5"/>
-    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=CSS3&color=09344D&logoColor=blue&style=flat&logo=css3"/>
-    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=SASS&color=09344D&style=flat&logo=sass"/>
-    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=BEM&color=09344D&style=flat&logo=bem"/>
-    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=JAVASCRIPT&color=09344D&style=flat&logo=javascript"/>
-    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=MONGO-DB&color=09344D&style=flat&logo=mongodb"/>
-    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=EXPRESS.JS&color=09344D&style=flat&logo=express"/>
-    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=REACT.JS&color=09344D&style=flat&logo=react"/>
-    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=REACT NATIVE&color=09344D&style=flat&logo=react"/>
-    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=NODE.JS&color=09344D&style=flat&logo=node.js"/>
-    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=POSTGRESQL&color=09344D&style=flat&logo=postgresql"/>
-    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=VUE.JS&color=09344D&style=flat&logo=vue.js"/>
-    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=FIREBASE&color=09344D&style=flat&logo=firebase"/>
-    <img src="https://custom-icon-badges.demolab.com/static/v1?label=&labelColor=09344D&message=JAVA&color=09344D&logoColor=white&style=flat&logo=java"/>
-    <img src="https://custom-icon-badges.demolab.com/static/v1?label=&labelColor=09344D&message=SQL&color=09344D&logoColor=white&style=flat&logo=database"/>
-    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=MYSQL&color=09344D&logoColor=gold&style=flat&logo=mysql"/>
-    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=SQLITE&color=09344D&style=flat&logo=sqlite"/>
-    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=XAMPP&color=09344D&style=flat&logo=xampp"/>  
-    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=ANDROID STUDIO&color=09344D&style=flat&logo=android studio"/>
-    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=NETBEANS&color=09344D&style=flat&logo=apache netbeans ide"/>
-    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=ECLIPSE&color=09344D&style=flat&logo=eclipse ide"/> 
-    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=VS CODE&color=09344D&logoColor=blue&style=flat&logo=visual studio code"/>
-    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=NETLIFY&color=09344D&style=flat&logo=netlify"/>
-    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=GIT&color=09344D&style=flat&logo=git"/>
-    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=GITHUB&color=09344D&style=flat&logo=github"/>
-    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=GITHUB PAGES&color=09344D&style=flat&logo=github pages"/>
-    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=MARKDOWN&color=09344D&style=flat&logo=markdown"/>
-    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=BASH&color=09344D&logoColor=white&style=flat&logo=gnu bash"/>
-    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=LINUX&color=09344D&style=flat&logo=linux"/>
-    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=POP!_OS&color=09344D&style=flat&logo=pop!_os"/>
-    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=ADOBE&color=09344D&style=flat&logo=adobe&logoColor=ff0000"/>
+<h3>📚💻 Technology Stack:</h3>
+ <h4>🎨 Frontend Development:</h4>
+
+ <p>
+    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=HTML5&color=09344D&style=for-the-badge&logo=html5"/>
+    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=CSS3&color=09344D&logoColor=blue&style=for-the-badge&logo=css3"/>
+    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=SASS&color=09344D&style=for-the-badge&logo=sass"/>
+    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=BEM&color=09344D&style=for-the-badge&logo=bem"/>
+    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=JAVASCRIPT&color=09344D&style=for-the-badge&logo=javascript"/>
+    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=REACT.JS&color=09344D&style=for-the-badge&logo=react"/>
+    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=REACT NATIVE&color=09344D&style=for-the-badge&logo=react"/>
+    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=VUE.JS&color=09344D&style=for-the-badge&logo=vue.js"/>
+ </p>
+ <h4>💻 Backend Development:</h4>
+ <p>
+    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=MONGO-DB&color=09344D&style=for-the-badge&logo=mongodb"/>
+    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=EXPRESS.JS&color=09344D&style=for-the-badge&logo=express"/>
+    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=NODE.JS&color=09344D&style=for-the-badge&logo=node.js"/>
+    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=POSTGRESQL&color=09344D&style=for-the-badge&logo=postgresql"/>
+    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=MYSQL&color=09344D&logoColor=gold&style=for-the-badge&logo=mysql"/>
+    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=SQLITE&color=09344D&style=for-the-badge&logo=sqlite"/>
+    <img src="https://custom-icon-badges.demolab.com/static/v1?label=&labelColor=09344D&message=JAVA&color=09344D&logoColor=white&style=for-the-badge&logo=java"/>
+    <img src="https://custom-icon-badges.demolab.com/static/v1?label=&labelColor=09344D&message=SQL&color=09344D&logoColor=white&style=for-the-badge&logo=database"/>
+ </p>
+ <h4>🌐 Web Hosting and Deployment</h4>
+ <p>
+    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=FIREBASE&color=09344D&style=for-the-badge&logo=firebase"/>
+    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=XAMPP&color=09344D&style=for-the-badge&logo=xampp"/>  
+    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=NETLIFY&color=09344D&style=for-the-badge&logo=netlify"/>
+    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=GITHUB PAGES&color=09344D&style=for-the-badge&logo=github pages"/>
+ </p>
+ <h4>🛠️ Other Tech Tools:</h4>
+ <p>
+    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=ANDROID STUDIO&color=09344D&style=for-the-badge&logo=android studio"/>
+    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=NETBEANS&color=09344D&style=for-the-badge&logo=apache netbeans ide"/>
+    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=ECLIPSE&color=09344D&style=for-the-badge&logo=eclipse ide"/> 
+    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=VS CODE&color=09344D&logoColor=blue&style=for-the-badge&logo=visual studio code"/>
+    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=GIT&color=09344D&style=for-the-badge&logo=git"/>
+    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=GITHUB&color=09344D&style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=MARKDOWN&color=09344D&style=for-the-badge&logo=markdown"/>
+    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=BASH&color=09344D&logoColor=white&style=for-the-badge&logo=gnu bash"/>
+    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=LINUX&color=09344D&style=for-the-badge&logo=linux"/>
+    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=POP!_OS&color=09344D&style=for-the-badge&logo=pop!_os"/>
+    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=ADOBE&color=09344D&style=for-the-badge&logo=adobe&logoColor=ff0000"/>
  </p>
  
 
