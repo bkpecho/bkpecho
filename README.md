@@ -17,7 +17,7 @@ As a creative and detail-oriented software engineer with a deep interest in AI, 
  
 ---
 
-<h3>🛠️ Tools and Technologies 🌐</h3>
+<h3>💻 Technologies and Tools 🛠️</h3>
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=HTML5&color=09344D&style=flat&logo=html5"/>
     <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=CSS3&color=09344D&logoColor=blue&style=flat&logo=css3"/>
@@ -53,7 +53,7 @@ As a creative and detail-oriented software engineer with a deep interest in AI, 
  </p>
  
 
-<h3>👨‍💻 Streak Stats 🔥</h3>
+<h3>🔥 Streak Stats 🚀</h3>
 
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
