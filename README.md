@@ -137,7 +137,6 @@
 <p>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img
-      height="192px"
       title="🔥 Get streak stats for your profile at git.io/streak-stats"
       alt="BK Pecho's streak"
       src="https://streak-stats.demolab.com/?user=bkpecho&theme=prussian&background=09344D&fire=white&ring=white&sideNums=white&sideLabels=white&dates=667BCD&hide_border=true"
