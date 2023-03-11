@@ -143,12 +143,6 @@
       src="https://streak-stats.demolab.com/?user=bkpecho&theme=prussian&background=09344D&fire=white&ring=white&sideNums=white&sideLabels=white&dates=667BCD&hide_border=true"
     />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"
-    ><img
-      alt="BK Pecho's Top Languages"
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=bkpecho&langs_count=8&layout=compact&theme=prussian&hide_border=true&bg_color=09344D&title_color=ffffff&icon_color=ffffff&text_color=ffffff&hide="
-      height="192px"
-  /></a>
 </p>
 
 <div>
@@ -157,6 +151,3 @@
       src="https://img.shields.io/static/v1?label=Most Active Github Users in Philippines&labelColor=09344D&message=Top 1%&color=white&style=for-the-badge&logo=github&logoColor=white"
   /></a>
 </div>
-<br />
-<b>Note:</b> Top languages is only a metric of the languages my public code
-consists of and doesn't reflect experience or skill level.
