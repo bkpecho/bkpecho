@@ -144,10 +144,3 @@
     />
   </a>
 </p>
-
-<div>
-  <a href="https://commits.top/philippines_private.html" target="blank"
-    ><img
-      src="https://img.shields.io/static/v1?label=Most Active Github Users in Philippines&labelColor=09344D&message=Top 1%&color=red&style=for-the-badge&logo=github&logoColor=white"
-  /></a>
-</div>
