@@ -137,12 +137,16 @@
 <p>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img
+      height="192px"
       title="🔥 Get streak stats for your profile at git.io/streak-stats"
       alt="BK Pecho's streak"
       src="https://streak-stats.demolab.com/?user=bkpecho&theme=prussian&background=09344D&fire=white&ring=white&sideNums=white&sideLabels=white&dates=667BCD&hide_border=true"
     />
   </a>
+   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="BK Pecho's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=bkpecho&langs_count=8&layout=compact&theme=prussian&hide_border=true&bg_color=09344D&title_color=ffffff&icon_color=ffffff&text_color=ffffff&hide=" height="192px"/></a>
+ 
 </p>
+
 <div>
   <a href="https://commits.top/philippines_private.html" target="blank"
     ><img
