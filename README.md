@@ -1,4 +1,4 @@
-<img src="./assets/banner_bk.gif"/>
+<img src="./assets/banner.gif"/>
 
 <p align="center">
   <a href="https://linkedin.com/in/bkpecho" target="blank"
