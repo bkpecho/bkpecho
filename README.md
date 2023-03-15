@@ -34,7 +34,7 @@
 
 ---
 
-<h3>💻 Technologies and Tools 🛠️</h3>
+<h3 align="center">💻 Technologies and Tools 🛠️</h3>
 <p align="center">
   <img
     src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=HTML5&color=09344D&style=flat&logo=html5"
@@ -131,10 +131,10 @@
   />
 </p>
 
-<h3>🚀 My GitHub Stats 📈</h3>
+<h3 align="center">🚀 My GitHub Stats 📈</h3>
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p>
+<p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img
       title="🔥 Get streak stats for your profile at git.io/streak-stats"
