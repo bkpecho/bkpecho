@@ -1,4 +1,4 @@
-<img src="./assets/banner.gif"/>
+<img src="./assets/banner.gif" />
 
 <p align="center">
   <a href="https://linkedin.com/in/bkpecho" target="blank"
@@ -140,6 +140,12 @@
       title="🔥 Get streak stats for your profile at git.io/streak-stats"
       alt="BK Pecho's streak"
       src="https://streak-stats.demolab.com/?user=bkpecho&theme=prussian&background=09344D&fire=white&ring=white&sideNums=white&sideLabels=white&dates=667BCD&hide_border=true"
+    />
+  </a>
+  <br />
+  <a href="https://commits.top/philippines_private.html">
+    <img
+      src="https://img.shields.io/static/v1?label=MOST ACTIVE GITHUB USERS IN PH&labelColor=09344D&message=Top 1%&color=B1361E&style=for-the-badge&logo=github&logoColor=white"
     />
   </a>
 </p>
