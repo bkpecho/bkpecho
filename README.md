@@ -106,6 +106,9 @@
     src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=NETLIFY&color=09344D&style=flat&logo=netlify"
   />
   <img
+    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=POSTMAN&color=09344D&logoColor=FF6C37&style=flat&logo=postman"
+  />
+  <img
     src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=GIT&color=09344D&style=flat&logo=git"
   />
   <img
