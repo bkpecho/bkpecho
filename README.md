@@ -13,10 +13,6 @@
     ><img
       src="https://img.shields.io/badge/Polywork-543DE0?style=flat&logo=polywork&logoColor=4cfdff&color=black"
   /></a>
-  <a href="mailto:pechobk@gmail.com" target="blank"
-    ><img
-      src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=4cfdff&color=black"
-  /></a>
   <a href="https://www.codewars.com/users/bkpecho" target="blank"
     ><img
       src="https://img.shields.io/badge/Codewars-B1361E?style=flat&logo=Codewars&logoColor=4cfdff&color=black"
@@ -29,15 +25,18 @@
     ><img
       src="https://img.shields.io/static/v1?label=&labelColor=black&message=Frontend Mentor&color=black&style=flat&logo=frontend mentor&logoColor=4cfdff"
   /></a>
+  <a href="mailto:pechobk@gmail.com" target="blank"
+    ><img
+      src="https://img.shields.io/badge/Let's Talk-D14836?style=flat&logo=gmail&logoColor=4cfdff&color=black"
+  /></a>
 </p>
-<h2>🌃 About Me</h2>
+<h2>☕ About Me</h2>
 <p>
-Hello there,
+Greetings,
 
-I'm BK, a passionate software engineer skilled in web development. With a BSIT degree, I bring ideas to life online. Open-source projects and AI fascinate me. Let's connect, collaborate, and create remarkable experiences for positive change.
-  
-Reach out, let's embark on this amazing journey! 💎
-  
+Explore BK's profile, a passionate software engineer specializing in web development. With a BSIT degree, BK possesses the expertise to bring ideas to life on the internet. Fueled by a passion for open-source projects and captivated by AI, BK is driven to connect, collaborate, and create remarkable online experiences that foster positive change.
+
+Feel free to reach out and embark on this thrilling journey together! 💎
 </p>
 
 <h2>Technologies and Tools</h2>
@@ -88,7 +87,7 @@ Reach out, let's embark on this amazing journey! 💎
     src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white"
   />
   <img
-    src="https://img.shields.io/badge/Xampp-F37623?style=flat&logo=xampp&logoColor=white"
+    src="https://img.shields.io/badge/XAMPP-F37623?style=flat&logo=xampp&logoColor=white"
   />
   <img
     src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white"
@@ -100,7 +99,7 @@ Reach out, let's embark on this amazing journey! 💎
     src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white"
   />
   <img
-    src="https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white"
+    src="https://img.shields.io/badge/VS Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white"
   />
   <img
     src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white"
