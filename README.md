@@ -3,31 +3,31 @@
 <p align=right>
   <a href="https://linkedin.com/in/bkpecho" target="blank"
     ><img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=4cfdff&color=black"
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=3aaded&color=black"
   /></a>
   <a href="https://www.twitter.com/bkpecho" target="blank"
     ><img
-      src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=4cfdff&color=black"
+      src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=3aaded&color=black"
   /></a>
   <a href="https://poly.me/bkpecho" target="blank"
     ><img
-      src="https://img.shields.io/badge/Polywork-543DE0?style=flat&logo=polywork&logoColor=4cfdff&color=black"
+      src="https://img.shields.io/badge/Polywork-543DE0?style=flat&logo=polywork&logoColor=3aaded&color=black"
   /></a>
   <a href="https://www.codewars.com/users/bkpecho" target="blank"
     ><img
-      src="https://img.shields.io/badge/Codewars-B1361E?style=flat&logo=Codewars&logoColor=4cfdff&color=black"
+      src="https://img.shields.io/badge/Codewars-B1361E?style=flat&logo=Codewars&logoColor=3aaded&color=black"
   /></a>
   <a href="https://leetcode.com/bkpecho/" target="blank"
     ><img
-      src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=4cfdff&color=black"
+      src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=3aaded&color=black"
   /></a>
   <a href="https://www.frontendmentor.io/profile/bkpecho" target="blank"
     ><img
-      src="https://img.shields.io/static/v1?label=&labelColor=black&message=Frontend Mentor&color=black&style=flat&logo=frontend mentor&logoColor=4cfdff"
+      src="https://img.shields.io/static/v1?label=&labelColor=black&message=Frontend Mentor&color=black&style=flat&logo=frontend mentor&logoColor=3aaded"
   /></a>
   <a href="mailto:pechobk@gmail.com" target="blank"
     ><img
-      src="https://img.shields.io/badge/Let's Talk-D14836?style=flat&logo=gmail&logoColor=4cfdff&color=black"
+      src="https://img.shields.io/badge/Let's Talk-D14836?style=flat&logo=gmail&logoColor=3aaded&color=black"
   /></a>
 </p>
 <h2>☕ About Me</h2>
@@ -135,12 +135,12 @@ Feel free to reach out and embark on this thrilling journey together! 💎
     <img
       title="🔥 Get streak stats for your profile at git.io/streak-stats"
       alt="BK Pecho's streak"
-      src="https://streak-stats.demolab.com/?user=bkpecho&theme=react&background=black&currStreakNum=white&currStreakLabel=white&fire=4cfdff&ring=4cfdff&sideNums=4cfdff&sideLabels=white&dates=3aaded&hide_border=true"
+      src="https://streak-stats.demolab.com/?user=bkpecho&theme=react&background=black&currStreakNum=white&currStreakLabel=white&fire=3aaded&ring=3aaded&sideNums=3aaded&sideLabels=white&dates=3aaded&hide_border=true"
     />
   <br />
   <a href="https://commits.top/philippines_private.html">
     <img
-      src="https://img.shields.io/static/v1?label=MOST ACTIVE GITHUB USERS IN PH&labelColor=black&message=Top 1%&color=black&style=for-the-badge&logo=github&logoColor=4cfdff"
+      src="https://img.shields.io/static/v1?label=MOST ACTIVE GITHUB USERS IN PH&labelColor=black&message=Top 1%&color=black&style=for-the-badge&logo=github&logoColor=3aaded"
     />
   </a>
 </p>
