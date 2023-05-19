@@ -9,7 +9,7 @@
     ><img
       src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=4cfdff&color=black"
   /></a>
-  <a href="https://www.twitter.com/bkpecho" target="blank"
+  <a href="https://poly.me/bkpecho" target="blank"
     ><img
       src="https://img.shields.io/badge/polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=4cfdff&color=black"
   /></a>
@@ -28,9 +28,7 @@
 Hi! I'm BK, a passionate software engineer skilled in web development. With a BSIT degree, I bring ideas to life online. Open-source projects and AI fascinate me. Let's connect, collaborate, and create remarkable experiences for positive change. Reach out, let's embark on this amazing journey!
 </p>
 
-</br>
-
-<h2 align="center">💻 Technologies and Tools 🛠️</h3>
+<h2 align="center">Technologies and Tools</h3>
 <p align="center">
   <img
     src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
@@ -121,9 +119,23 @@ Hi! I'm BK, a passionate software engineer skilled in web development. With a BS
   />
 </p>
 
-</br>
+<h2 align="center">Coding Challenges</h2>
+<p align=center>
+  <a href="https://www.codewars.com/users/bkpecho" target="blank"
+    ><img
+      src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=4cfdff&color=black"
+  /></a>
+  <a href="https://leetcode.com/bkpecho/" target="blank"
+    ><img
+      src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=4cfdff&color=black"
+  /></a>
+  <a href="https://www.frontendmentor.io/profile/bkpecho" target="blank"
+    ><img
+      src="https://img.shields.io/static/v1?label=&labelColor=black&message=FRONTEND MENTOR&color=black&style=for-the-badge&logo=frontend mentor&logoColor=4cfdff"
+  /></a>
+</p>
 
-<h2 align="center">🚀 My GitHub Stats 🚀</h2>
+<h2 align="center">My GitHub Stats</h2>
 <p align="center">
     <img
       title="🔥 Get streak stats for your profile at git.io/streak-stats"
@@ -136,22 +148,4 @@ Hi! I'm BK, a passionate software engineer skilled in web development. With a BS
       src="https://img.shields.io/static/v1?label=MOST ACTIVE GITHUB USERS IN PH&labelColor=black&message=Top 1%&color=black&style=for-the-badge&logo=github&logoColor=4cfdff"
     />
   </a>
-</p>
-
-</br>
-
-<h2 align="center">⚔️ Coding Challenges ⚔️</h2>
-<p align=center>
-  <a href="https://leetcode.com/bkpecho/" target="blank"
-    ><img
-      src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=4cfdff&color=black"
-  /></a>
-  <a href="https://www.codewars.com/users/bkpecho" target="blank"
-    ><img
-      src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=4cfdff&color=black"
-  /></a>
-    <a href="https://www.frontendmentor.io/profile/bkpecho" target="blank"
-    ><img
-      src="https://img.shields.io/static/v1?label=&labelColor=black&message=FRONTEND MENTOR&color=black&style=for-the-badge&logo=frontend mentor&logoColor=4cfdff"
-  /></a>
 </p>
