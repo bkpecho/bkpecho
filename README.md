@@ -3,152 +3,155 @@
 <p align="center">
   <a href="https://linkedin.com/in/bkpecho" target="blank"
     ><img
-      src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=LINKEDIN&color=09344D&style=for-the-badge&logo=linkedin"
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=4cfdff&color=black"
   /></a>
   <a href="https://www.twitter.com/bkpecho" target="blank"
     ><img
-      src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=TWITTER&color=09344D&style=for-the-badge&logo=twitter&logoColor=white"
+      src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=4cfdff&color=black"
   /></a>
-  <a href="https://www.frontendmentor.io/profile/bkpecho" target="blank"
+  <a href="https://www.twitter.com/bkpecho" target="blank"
     ><img
-      src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=FRONTEND MENTOR&color=09344D&style=for-the-badge&logo=frontend mentor&logoColor=white"
+      src="https://img.shields.io/badge/polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=4cfdff&color=black"
   /></a>
-  <a href="https://www.codewars.com/users/bkpecho" target="blank"
+  <a href="mailto:pechobk@gmail.com" target="blank"
     ><img
-      src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=CODEWARS&color=09344D&style=for-the-badge&logo=codewars&logoColor=white"
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=4cfdff&color=black"
   /></a>
+
 </p>
 
-<p align="center">
+<h2 align="center">
   <strong>“Passion. Purpose. Progress.”</strong>
-</p>
+</h2>
 
 <p align="center">
-  As a creative and detail-oriented software engineer with a deep interest in
-  AI, I bring a passion for learning and a drive to tackle real-world problems.
-  I am eager to work across technologies and domains, leveraging new innovations
-  to create innovative solutions. Currently, I am focused on web development and
-  am dedicated to building my version of the digital world one step at a time.
-  💻✨
+Hi! I'm BK, a passionate software engineer skilled in web development. With a BSIT degree, I bring ideas to life online. Open-source projects and AI fascinate me. Let's connect, collaborate, and create remarkable experiences for positive change. Reach out, let's embark on this amazing journey!
 </p>
 
----
+</br>
 
-<h3 align="center">💻 Technologies and Tools 🛠️</h3>
+<h2 align="center">💻 Technologies and Tools 🛠️</h3>
 <p align="center">
   <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=HTML5&color=09344D&style=flat&logo=html5"
+    src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
   />
   <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=CSS3&color=09344D&logoColor=blue&style=flat&logo=css3"
+    src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
   />
   <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=SASS&color=09344D&style=flat&logo=sass"
+    src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"
   />
   <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=BEM&color=09344D&style=flat&logo=bem"
+    src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
   />
   <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=JAVASCRIPT&color=09344D&style=flat&logo=javascript"
+    src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
   />
   <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=MONGO-DB&color=09344D&style=flat&logo=mongodb"
+    src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"
   />
   <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=EXPRESS.JS&color=09344D&style=flat&logo=express"
+    src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
   />
   <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=REACT.JS&color=09344D&style=flat&logo=react"
+    src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
   />
   <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=REACT NATIVE&color=09344D&style=flat&logo=react"
+    src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
   />
   <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=NODE.JS&color=09344D&style=flat&logo=node.js"
+    src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"
   />
   <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=POSTGRESQL&color=09344D&style=flat&logo=postgresql"
+    src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"
   />
   <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=VUE.JS&color=09344D&style=flat&logo=vue.js"
+    src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white"
   />
   <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=FIREBASE&color=09344D&style=flat&logo=firebase"
+    src="https://custom-icon-badges.demolab.com/static/v1?label=&labelColor=f89820&message=JAVA&color=f89820&logoColor=white&style=for-the-badge&logo=java"
   />
   <img
-    src="https://custom-icon-badges.demolab.com/static/v1?label=&labelColor=09344D&message=JAVA&color=09344D&logoColor=white&style=flat&logo=java"
+    src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
   />
   <img
-    src="https://custom-icon-badges.demolab.com/static/v1?label=&labelColor=09344D&message=SQL&color=09344D&logoColor=white&style=flat&logo=database"
+    src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"
   />
   <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=MYSQL&color=09344D&logoColor=gold&style=flat&logo=mysql"
+    src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white"
   />
   <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=SQLITE&color=09344D&style=flat&logo=sqlite"
+    src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"
   />
   <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=XAMPP&color=09344D&style=flat&logo=xampp"
+    src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white"
   />
   <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=ANDROID STUDIO&color=09344D&style=flat&logo=android studio"
+    src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"
   />
   <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=NETBEANS&color=09344D&style=flat&logo=apache netbeans ide"
+    src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
   />
   <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=ECLIPSE&color=09344D&style=flat&logo=eclipse ide"
+    src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"
   />
   <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=VS CODE&color=09344D&logoColor=blue&style=flat&logo=visual studio code"
+    src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"
   />
   <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=NETLIFY&color=09344D&style=flat&logo=netlify"
+    src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"
   />
   <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=POSTMAN&color=09344D&logoColor=FF6C37&style=flat&logo=postman"
+    src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
   />
   <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=GIT&color=09344D&style=flat&logo=git"
+    src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
   />
   <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=GITHUB&color=09344D&style=flat&logo=github"
+    src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white"
   />
   <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=GITHUB PAGES&color=09344D&style=flat&logo=github pages"
+    src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"
   />
   <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=MARKDOWN&color=09344D&style=flat&logo=markdown"
+    src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
   />
   <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=BASH&color=09344D&logoColor=white&style=flat&logo=gnu bash"
-  />
-  <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=LINUX&color=09344D&style=flat&logo=linux"
-  />
-  <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=POP!_OS&color=09344D&style=flat&logo=pop!_os"
-  />
-  <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=ADOBE&color=09344D&style=flat&logo=adobe&logoColor=ff0000"
+    src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white"
   />
 </p>
 
-<h3 align="center">🚀 My GitHub Stats 📈</h3>
+</br>
 
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<h2 align="center">🚀 My GitHub Stats 🚀</h2>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img
       title="🔥 Get streak stats for your profile at git.io/streak-stats"
       alt="BK Pecho's streak"
-      src="https://streak-stats.demolab.com/?user=bkpecho&theme=prussian&background=09344D&fire=white&ring=white&sideNums=white&sideLabels=white&dates=667BCD&hide_border=true"
+      src="https://streak-stats.demolab.com/?user=bkpecho&theme=react&background=black&currStreakNum=white&currStreakLabel=white&fire=4cfdff&ring=4cfdff&sideNums=4cfdff&sideLabels=white&dates=3aaded&hide_border=true"
     />
-  </a>
   <br />
   <a href="https://commits.top/philippines_private.html">
     <img
-      src="https://img.shields.io/static/v1?label=MOST ACTIVE GITHUB USERS IN PH&labelColor=09344D&message=Top 1%&color=B1361E&style=for-the-badge&logo=github&logoColor=white"
+      src="https://img.shields.io/static/v1?label=MOST ACTIVE GITHUB USERS IN PH&labelColor=black&message=Top 1%&color=black&style=for-the-badge&logo=github&logoColor=4cfdff"
     />
   </a>
+</p>
+
+</br>
+
+<h2 align="center">⚔️ Coding Challenges ⚔️</h2>
+<p align=center>
+  <a href="https://leetcode.com/bkpecho/" target="blank"
+    ><img
+      src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=4cfdff&color=black"
+  /></a>
+  <a href="https://www.codewars.com/users/bkpecho" target="blank"
+    ><img
+      src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=4cfdff&color=black"
+  /></a>
+    <a href="https://www.frontendmentor.io/profile/bkpecho" target="blank"
+    ><img
+      src="https://img.shields.io/static/v1?label=&labelColor=black&message=FRONTEND MENTOR&color=black&style=for-the-badge&logo=frontend mentor&logoColor=4cfdff"
+  /></a>
 </p>
