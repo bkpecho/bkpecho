@@ -138,7 +138,7 @@ Feel free to reach out and embark on this thrilling journey together! 💎
       src="https://streak-stats.demolab.com/?user=bkpecho&theme=react&background=black&currStreakNum=white&currStreakLabel=white&fire=3aaded&ring=3aaded&sideNums=3aaded&sideLabels=white&dates=3aaded&hide_border=true"
     />
   <br />
-  <a href="https://commits.top/philippines_private.html">
+  <a href="https://committers.top/philippines">
     <img
       src="https://img.shields.io/static/v1?label=MOST ACTIVE GITHUB USERS IN PH&labelColor=black&message=Top 1%&color=black&style=for-the-badge&logo=github&logoColor=3aaded"
     />
