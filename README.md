@@ -111,6 +111,9 @@ Feel free to reach out and embark on this thrilling journey together! 💎
     src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"
   />
   <img
+    src="https://img.shields.io/badge/Insomnia-4000BF?style=flat&logo=Insomnia&logoColor=white"
+  />
+  <img
     src="https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white"
   />
   <img
