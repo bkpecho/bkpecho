@@ -32,11 +32,11 @@
 </p>
 <h2>☕ About Me</h2>
 <p>
-Greetings,
+Hey everyone!
 
-Explore BK's profile, a passionate software engineer specializing in web development. With a BSIT degree, BK possesses the expertise to bring ideas to life on the internet. Fueled by a passion for open-source projects and captivated by AI, BK is driven to connect, collaborate, and create remarkable online experiences that foster positive change.
-
-Feel free to reach out and embark on this thrilling journey together! 💎
+My name is Bryan, a software engineer who loves building websites. I have a degree in Information Technology and I'm all about making ideas come alive on the internet. Open-source projects and AI get me super excited! I'm here to connect, collaborate, and create awesome online experiences that make a positive impact. If you're up for it, let's team up and dive into this exciting adventure together. 
+  
+Feel free to reach out and let's get started! 💎
 </p>
 
 <h2>Technologies and Tools</h2>
