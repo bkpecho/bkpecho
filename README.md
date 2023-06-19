@@ -39,11 +39,11 @@ My name is Bryan, a software engineer who loves building websites. I have a degr
 Feel free to reach out and let's get started! 💎
 </p>
 
-<h2>Technologies and Tools</h2>
+<h2>🖥️ Technologies and Tools</h2>
 <table>
   <tr>
     <td width="33.3%" valign="top">
-      <h6>💻 Front-End Web Development</h6>
+      <h6>🎨 Front-End Web Development</h6>
       <img
         src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"
       />
@@ -100,14 +100,14 @@ Feel free to reach out and let's get started! 💎
       <img
         src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white"
       />
+      <img
+        src="https://img.shields.io/badge/XAMPP-F37623?style=flat&logo=xampp&logoColor=white"
+      />
     </td>
     <td width="33.3%" valign="top">
       <h6>🛠️ Development Tools and Environments</h6>
       <img
         src="https://img.shields.io/badge/Apache%20Netbeans-1B6AC6?style=flat&logo=apache%20netbeans%20IDE&logoColor=white"
-      />
-      <img
-        src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white"
       />
       <img
         src="https://img.shields.io/badge/VS Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white"
@@ -117,9 +117,6 @@ Feel free to reach out and let's get started! 💎
       />
       <img
         src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"
-      />
-      <img
-        src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat&logo=GitHub%20Pages&logoColor=white"
       />
       <img
         src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"
@@ -146,13 +143,16 @@ Feel free to reach out and let's get started! 💎
         src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"
       />
       <img
-        src="https://img.shields.io/badge/XAMPP-F37623?style=flat&logo=xampp&logoColor=white"
+        src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat&logo=GitHub%20Pages&logoColor=white"
       />
       <img
         src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"
       />
       <img
         src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=flat&logo=Pop!_OS&logoColor=white"
+      />
+      <img
+        src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"
       />
     </td>
   </tr>
