@@ -131,7 +131,7 @@ Let's **connect, collaborate, and create** amazing online experiences that make 
     <td width="33.3%" valign="top">
       <h6>🚀 Infrastructure and Deployment</h6>
       <img
-        src="https://img.shields.io/badge/Firebase-ffca28?style=plastic&logo=firebase&logoColor=black"
+        src="https://img.shields.io/badge/Firebase-039BE5?style=plastic&logo=Firebase&logoColor=white"
       />
       <img
         src="https://img.shields.io/badge/Supabase-181818?style=plastic&logo=supabase&logoColor=white"
