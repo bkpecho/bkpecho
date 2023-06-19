@@ -1,6 +1,6 @@
 <img src="./assets/banner.gif" />
 
-<p align=right>
+<p align="right">
   <a href="https://linkedin.com/in/bkpecho" target="blank"
     ><img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=3aaded&color=black"
@@ -32,17 +32,18 @@
 </p>
 <h2>☕ About Me</h2>
 <p>
-Hey everyone!
-
-My name is Bryan, a software engineer who loves **building websites**. With a degree in *Information Technology*, I bring ideas to life on the internet. Open-source projects and AI get me super excited!
-
-Let's **connect, collaborate, and create** amazing online experiences that make a positive impact. If you're interested, let's team up and dive into this adventure together. 💎
+  Hey everyone! My name is Bryan, a software engineer who loves **building
+  websites**. With a degree in *Information Technology*, I bring ideas to life
+  on the internet. Open-source projects and AI get me super excited! Let's
+  **connect, collaborate, and create** amazing online experiences that make a
+  positive impact. If you're interested, let's team up and dive into this
+  adventure together. 💎
 </p>
 
 <h2>🖥️ Technologies and Tools</h2>
 <table>
   <tr>
-    <td width="33.3%" valign="top">
+    <td valign="top">
       <h6>🎨 Front-End Web Development</h6>
       <img
         src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white"
@@ -66,7 +67,7 @@ Let's **connect, collaborate, and create** amazing online experiences that make 
         src="https://img.shields.io/badge/Vue.js-35495E?style=plastic&logo=vuedotjs&logoColor=4FC08D"
       />
     </td>
-    <td width="33.3%" valign="top">
+    <td valign="top">
       <h6>🌐 Back-End Web Development</h6>
       <img
         src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white"
@@ -78,7 +79,7 @@ Let's **connect, collaborate, and create** amazing online experiences that make 
         src="https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white"
       />
     </td>
-    <td width="33.3%" valign="top">
+    <td valign="top">
       <h6>📱 Mobile App Development</h6>
       <img
         src="https://custom-icon-badges.demolab.com/static/v1?label=&labelColor=f89820&message=Java&color=f89820&logoColor=white&style=plastic&logo=java"
@@ -92,7 +93,7 @@ Let's **connect, collaborate, and create** amazing online experiences that make 
     </td>
   </tr>
   <tr>
-    <td width="33.3%" valign="top">
+    <td valign="top">
       <h6>🗃️ Database Technologies</h6>
       <img
         src="https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white"
@@ -104,7 +105,7 @@ Let's **connect, collaborate, and create** amazing online experiences that make 
         src="https://img.shields.io/badge/XAMPP-F37623?style=plastic&logo=xampp&logoColor=white"
       />
     </td>
-    <td width="33.3%" valign="top">
+    <td valign="top">
       <h6>🛠️ Development Tools and Environments</h6>
       <img
         src="https://img.shields.io/badge/Apache%20Netbeans-1B6AC6?style=plastic&logo=apache%20netbeans%20IDE&logoColor=white"
@@ -128,7 +129,7 @@ Let's **connect, collaborate, and create** amazing online experiences that make 
         src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"
       />
     </td>
-    <td width="33.3%" valign="top">
+    <td valign="top">
       <h6>🚀 Infrastructure and Deployment</h6>
       <img
         src="https://img.shields.io/badge/Firebase-039BE5?style=plastic&logo=Firebase&logoColor=white"
@@ -158,18 +159,43 @@ Let's **connect, collaborate, and create** amazing online experiences that make 
   </tr>
 </table>
 
-
-<h2 align=center>My GitHub Stats</h2>
-<p align=center>
-    <img
-      title="🔥 Get streak stats for your profile at git.io/streak-stats"
-      alt="BK Pecho's streak"
-      src="https://streak-stats.demolab.com/?user=bkpecho&theme=react&background=black&currStreakNum=white&currStreakLabel=white&fire=3aaded&ring=3aaded&sideNums=3aaded&sideLabels=white&dates=3aaded&hide_border=true"
-    />
-  <br />
-  <a href="https://committers.top/philippines#bkpecho">
-    <img
-      src="https://img.shields.io/static/v1?label=MOST ACTIVE GITHUB USERS IN PH&labelColor=black&message=Top 1%&color=black&style=for-the-badge&logo=github&logoColor=3aaded"
-    />
-  </a>
-</p>
+<h2>⚡️ Nonstop Coding</h2>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h6>🏆 My GitHub Stats</h6>
+      <p align="center">
+        <img
+          title="🔥 Get streak stats for your profile at git.io/streak-stats"
+          alt="BK Pecho's streak"
+          src="https://streak-stats.demolab.com/?user=bkpecho&theme=react&background=black&currStreakNum=white&currStreakLabel=white&fire=3aaded&ring=3aaded&sideNums=3aaded&sideLabels=white&dates=3aaded&hide_border=true"
+        />
+        <a href="https://committers.top/philippines#bkpecho">
+          <img
+            src="https://img.shields.io/static/v1?label=MOST ACTIVE GITHUB USERS IN PH&labelColor=black&message=Top 1%&color=black&style=for-the-badge&logo=github&logoColor=3aaded"
+          />
+        </a>
+      </p>
+      <h6>🐱‍👤 Codewars Stats Card</h6>
+      <a href="https://www.codewars.com/users/bkpecho">
+        <img
+          title="Codewars Stats Card"
+          alt="Bryan King Pecho's Codewars Stats Card"
+          src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=bkpecho&theme=dark&primaryColor=3aaded"
+        />
+      </a>
+    </td>
+    <td width="50%" valign="center">
+      <h6>📚 LeetCode Stats Card</h6>
+      <p align="center">
+        <a href="https://leetcode.com/bkpecho/">
+          <img
+            title="LeetCode Stats Card"
+            alt="Bryan King Pecho's LeetCode Stats Card"
+            src="https://leetcard.jacoblin.cool/bkpecho?theme=dark&font=Encode%20Sans&ext=activity&hide=ranking"
+          />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
