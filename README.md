@@ -32,12 +32,11 @@
 </p>
 <h2>☕ About Me</h2>
 <p>
-  Hey everyone! My name is Bryan, a software engineer who loves **building
-  websites**. With a degree in *Information Technology*, I bring ideas to life
-  on the internet. Open-source projects and AI get me super excited! Let's
-  **connect, collaborate, and create** amazing online experiences that make a
-  positive impact. If you're interested, let's team up and dive into this
-  adventure together. 💎
+  Hey everyone!
+  
+  My name is Bryan, a software engineer who loves **building websites**. With a degree in *Information Technology*, I bring ideas to life on the internet. Open-source projects and AI get me super excited!
+  
+  Let's **connect, collaborate, and create** amazing online experiences that make a positive impact. If you're interested, let's team up and dive into this adventure together. 💎
 </p>
 
 <h2>🖥️ Technologies and Tools</h2>
