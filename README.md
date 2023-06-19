@@ -34,9 +34,9 @@
 <p>
 Hey everyone!
 
-My name is Bryan, a software engineer who loves building websites. I have a degree in Information Technology and I'm all about making ideas come alive on the internet. Open-source projects and AI get me super excited! I'm here to connect, collaborate, and create awesome online experiences that make a positive impact. If you're up for it, let's team up and dive into this exciting adventure together. 
-  
-Feel free to reach out and let's get started! 💎
+My name is Bryan, a software engineer who loves **building websites**. With a degree in *Information Technology*, I bring ideas to life on the internet. Open-source projects and AI get me super excited!
+
+Let's **connect, collaborate, and create** amazing online experiences that make a positive impact. If you're interested, let's team up and dive into this adventure together. 💎
 </p>
 
 <h2>🖥️ Technologies and Tools</h2>
