@@ -1,31 +1,31 @@
 <img src="./assets/banner.gif" />
 
 <p align="right">
-  <a href="https://linkedin.com/in/bkpecho" target="blank"
+  <a href="https://linkedin.com/in/bkpecho" 
     ><img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=3aaded&color=black"
   /></a>
-  <a href="https://www.twitter.com/bkpecho" target="blank"
+  <a href="https://www.twitter.com/bkpecho" 
     ><img
       src="https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=3aaded&color=black"
   /></a>
-  <a href="https://poly.me/bkpecho" target="blank"
+  <a href="https://poly.me/bkpecho" 
     ><img
       src="https://img.shields.io/badge/Polywork-543DE0?style=plastic&logo=polywork&logoColor=3aaded&color=black"
   /></a>
-  <a href="https://www.codewars.com/users/bkpecho" target="blank"
+  <a href="https://www.codewars.com/users/bkpecho" 
     ><img
       src="https://img.shields.io/badge/Codewars-B1361E?style=plastic&logo=Codewars&logoColor=3aaded&color=black"
   /></a>
-  <a href="https://leetcode.com/bkpecho/" target="blank"
+  <a href="https://leetcode.com/bkpecho/" 
     ><img
       src="https://img.shields.io/badge/-LeetCode-FFA116?style=plastic&logo=LeetCode&logoColor=3aaded&color=black"
   /></a>
-  <a href="https://www.frontendmentor.io/profile/bkpecho" target="blank"
+  <a href="https://www.frontendmentor.io/profile/bkpecho" 
     ><img
       src="https://img.shields.io/static/v1?label=&labelColor=black&message=Frontend Mentor&color=black&style=plastic&logo=frontend mentor&logoColor=3aaded"
   /></a>
-  <a href="mailto:pechobk@gmail.com" target="blank"
+  <a href="mailto:pechobk@gmail.com" 
     ><img
       src="https://img.shields.io/badge/Let's Talk-D14836?style=plastic&logo=gmail&logoColor=3aaded&color=black"
   /></a>
@@ -156,6 +156,49 @@
       />
     </td>
   </tr>
+</table>
+
+<h2>🚀 Projects</h2>
+<table>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🍽 Handaan Cavite</h3>
+        <br />
+        <a target="_blank" href="https://handaan.netlify.app/">
+            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJlZzQyMDloNmRtMWh6bjlmZHFvN2Q2ajM0eHc2OW5keTBmZnJtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QgjVbASKim1G3UbKES/giphy.gif" width="100%" alt="Handaan Website"/>
+        </a>
+        <br />
+        <p align="center">
+  <a href="https://github.com/bkpecho/handaan">
+    <img src="https://img.shields.io/static/v1?label=&message=Repository&color=black&style=plastic&logo=github&logoColor=3aaded"/>
+  </a>  
+  <a href="https://handaan.netlify.app/">
+    <img src="https://img.shields.io/static/v1?label=&message=Live Site&color=black&style=plastic&logo=netlify&logoColor=3aaded"/>
+  </a>  
+      </p>
+        <p><strong>JavaScript, AOS, GLightbox, Isotope Layout, Swiper JS, HTML5, CSS3, & Bootstrap</strong> - Handaan is a delightful restaurant landing page with an elegant design, responsive interface, and smooth animations.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🍣 Sushi Delights</h3>
+        <br />
+      <a target="_blank" href="https://sushi-delights.vercel.app/">
+            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2JhYjVwc2dlMW8xc3ZteG5rYm5lNTlvcTZuZmE5Mml0aDlrbGcxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OlddBVYkUXm9HT7fyz/giphy.gif" width="100%"  alt="Sushi Delights Website"/>
+        </a>
+        <br />
+        <p align="center">
+   <a href="https://github.com/bkpecho/sushi-delights">
+    <img src="https://img.shields.io/static/v1?label=&message=Repository&color=black&style=plastic&logo=github&logoColor=3aaded"/>
+  </a>  
+  <a href="https://sushi-delights.vercel.app/">
+    <img src="https://img.shields.io/static/v1?label=&message=Live Site&color=black&style=plastic&logo=vercel&logoColor=3aaded"/>
+  </a>  
+      </p>
+        <p><strong>HTML5, CSS3, JavaScript, AOS, Vite, BEM</strong> - Sushi Delights is a responsive landing page for a sushi restaurant, featuring traditional and innovative sushi dishes with a touch of Japanese culinary excellence.</p>
+    </td>
+  </tr>
+  
+ 
 </table>
 
 <h2>⚡️ Nonstop Coding</h2>
