@@ -163,7 +163,7 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🍽 Handaan Cavite</h3>
+      <h3 align="center">🥂 Handaan</h3>
         <br />
         <a target="_blank" href="https://handaan.netlify.app/">
             <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJlZzQyMDloNmRtMWh6bjlmZHFvN2Q2ajM0eHc2OW5keTBmZnJtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QgjVbASKim1G3UbKES/giphy.gif" width="100%" alt="Handaan Website"/>
@@ -197,7 +197,26 @@
         <p><strong>HTML5, CSS3, JavaScript, AOS, Vite, BEM</strong> - Sushi Delights is a responsive landing page for a sushi restaurant, featuring traditional and innovative sushi dishes with a touch of Japanese culinary excellence.</p>
     </td>
   </tr>
-  
+
+   <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🏆 Nicotime-Out</h3>
+        <br />
+        <a target="_blank" href="https://youtu.be/CYq7Sqg0vU4">
+            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHlrd3dtMDMwaW0wMjVzeWVoZDJ1bmc2d2N0MHo5bHNhdWgxYWgwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aTKlCEFTjZnMFJSoeK/giphy.gif" width="100%" alt="Nicotime-Out App"/>
+        </a>
+        <br />
+        <p align="center">
+  <a href="https://github.com/bkpecho/Nicotime-Out">
+    <img src="https://img.shields.io/static/v1?label=&message=Repository&color=black&style=plastic&logo=github&logoColor=3aaded"/>
+  </a>  
+  <a href="https://youtu.be/CYq7Sqg0vU4">
+    <img src="https://img.shields.io/static/v1?label=&message=App Demo&color=black&style=plastic&logo=youtube&logoColor=3aaded"/>
+  </a>  
+      </p>
+        <p><strong>Java, SQLite, Android Studio, Adobe XD, & Powtoon</strong> - Nicotime-Out is an Android application developed as an undergraduate thesis project to help smokers overcome their addiction. It offers a range of features and tools, leveraging mobile technology, to support users on their path to a smoke-free life.</p>
+    </td>
+  </tr>
  
 </table>
 
