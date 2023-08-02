@@ -223,7 +223,17 @@
 <h2>⚡️ Nonstop Coding</h2>
 <table>
   <tr>
-    <td width="50%" valign="top">
+     <td width="33%" valign="center">
+      <h6>🐱‍👤 Codewars Stats Card</h6>
+      <a href="https://www.codewars.com/users/bkpecho">
+        <img
+          title="Codewars Stats Card"
+          alt="Bryan King Pecho's Codewars Stats Card"
+          src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=bkpecho&theme=dark&primaryColor=3aaded"
+        />
+      </a>
+    </td>
+    <td width="33%" valign="top">
       <h6>🏆 My GitHub Stats</h6>
       <p align="center">
         <img
@@ -236,24 +246,16 @@
             src="https://img.shields.io/static/v1?label=MOST ACTIVE GITHUB USERS IN PH&labelColor=black&message=Top 1%&color=black&style=for-the-badge&logo=github&logoColor=3aaded"
           />
         </a>
-      </p>
-      <h6>🐱‍👤 Codewars Stats Card</h6>
-      <a href="https://www.codewars.com/users/bkpecho">
-        <img
-          title="Codewars Stats Card"
-          alt="Bryan King Pecho's Codewars Stats Card"
-          src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=bkpecho&theme=dark&primaryColor=3aaded"
-        />
-      </a>
+      </p> 
     </td>
-    <td width="50%" valign="center">
+    <td width="33%" valign="center">
       <h6>📚 LeetCode Stats Card</h6>
       <p align="center">
         <a href="https://leetcode.com/bkpecho/">
           <img
             title="LeetCode Stats Card"
             alt="Bryan King Pecho's LeetCode Stats Card"
-            src="https://leetcard.jacoblin.cool/bkpecho?theme=dark&font=Encode%20Sans&ext=activity&hide=ranking"
+            src="https://leetcard.jacoblin.cool/bkpecho?theme=dark&font=Encode%20Sans&hide=ranking"
           />
         </a>
       </p>
