@@ -162,6 +162,23 @@
 <table>
   
   <tr>
+      <td width="50%" valign="top">
+      <h3 align="center">💻 Gadget Gizmo</h3>
+        <br />
+        <a target="_blank" href="https://gadgetgizmo.cyclic.app/">
+            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTk2OHM2cTlvbDExeXp2eDlhbTU0ZDhwYjRuYjJtbGFkcmhkamU0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rBocYUXrXQJVxcwFD9/giphy.gif" width="100%" alt="Gadget Gizmo"/>
+        </a>
+        <br />
+        <p align="center">
+  <a href="https://github.com/bkpecho/gadgetgizmo">
+    <img src="https://img.shields.io/static/v1?label=&message=Repository&color=black&style=plastic&logo=github&logoColor=3aaded"/>
+  </a>  
+  <a href="https://gadgetgizmo.cyclic.app/">
+    <img src="https://img.shields.io/static/v1?label=&message=Live Site&color=black&style=plastic&logo=gitee&logoColor=3aaded"/>
+  </a>  
+      </p>
+        <p><strong>Node.js, Express, MongoDB, React, Redux, React Bootstrap, Cloudinary, React Paypal JS</strong> -  Gadget Gizmo is a robust eCommerce platform developed with the MERN stack and Redux, offering a complete shopping cart experience and streamlined payment processing, including PayPal and credit/debit options.</p>
+    </td>
     <td width="50%" valign="top">
       <h3 align="center">🥂 Handaan</h3>
         <br />
@@ -179,7 +196,11 @@
       </p>
         <p><strong>JavaScript, AOS, GLightbox, Isotope Layout, Swiper JS, HTML5, CSS3, & Bootstrap</strong> - Handaan is a delightful restaurant landing page with an elegant design, responsive interface, and smooth animations.</p>
     </td>
-    <td width="50%" valign="top">
+    
+  </tr>
+
+   <tr>
+     <td width="50%" valign="top">
       <h3 align="center">🍣 Sushi Delights</h3>
         <br />
       <a target="_blank" href="https://sushi-delights.vercel.app/">
@@ -196,9 +217,6 @@
       </p>
         <p><strong>HTML5, CSS3, JavaScript, AOS, Vite, BEM</strong> - Sushi Delights is a responsive landing page for a sushi restaurant, featuring traditional and innovative sushi dishes with a touch of Japanese culinary excellence.</p>
     </td>
-  </tr>
-
-   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🏆 Nicotime-Out</h3>
         <br />
