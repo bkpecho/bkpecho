@@ -165,7 +165,7 @@
       <td width="50%" valign="top">
       <h3 align="center">💻 Gadget Gizmo</h3>
         <br />
-        <a target="_blank" href="https://gadgetgizmo.cyclic.app/">
+        <a target="_blank" href="https://gadgetgizmo.shop/">
             <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTk2OHM2cTlvbDExeXp2eDlhbTU0ZDhwYjRuYjJtbGFkcmhkamU0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rBocYUXrXQJVxcwFD9/giphy.gif" width="100%" alt="Gadget Gizmo"/>
         </a>
         <br />
@@ -173,11 +173,11 @@
   <a href="https://github.com/bkpecho/gadgetgizmo">
     <img src="https://img.shields.io/static/v1?label=&message=Repository&color=black&style=plastic&logo=github&logoColor=3aaded"/>
   </a>  
-  <a href="https://gadgetgizmo.cyclic.app/">
+  <a href="https://gadgetgizmo.shop/">
     <img src="https://img.shields.io/static/v1?label=&message=Live Site&color=black&style=plastic&logo=gitee&logoColor=3aaded"/>
   </a>  
       </p>
-        <p><strong>Node.js, Express, MongoDB, React, Redux, React Bootstrap, Cloudinary, React Paypal JS</strong> -  Gadget Gizmo is a robust eCommerce platform developed with the MERN stack and Redux, offering a complete shopping cart experience and streamlined payment processing, including PayPal and credit/debit options.</p>
+        <p><strong>Node.js, Express, MongoDB, React, Redux, React Bootstrap, Cloudinary, Paypal JS SDK</strong> -  Gadget Gizmo is a robust eCommerce platform developed with the MERN stack and Redux, offering a complete shopping cart experience and streamlined payment processing, including PayPal and credit/debit options.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🥂 Handaan</h3>
