@@ -1,6 +1,10 @@
 <img src="./assets/banner.gif" />
 
 <p align="right">
+   <a href="https://bkpecho.tech/" 
+    ><img
+      src="https://img.shields.io/badge/Website-0077B5?style=plastic&logo=esri&logoColor=3aaded&color=black"
+  /></a>
   <a href="https://linkedin.com/in/bkpecho" 
     ><img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=3aaded&color=black"
@@ -8,22 +12,6 @@
   <a href="https://www.twitter.com/bkpecho" 
     ><img
       src="https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=3aaded&color=black"
-  /></a>
-  <a href="https://poly.me/bkpecho" 
-    ><img
-      src="https://img.shields.io/badge/Polywork-543DE0?style=plastic&logo=polywork&logoColor=3aaded&color=black"
-  /></a>
-  <a href="https://www.codewars.com/users/bkpecho" 
-    ><img
-      src="https://img.shields.io/badge/Codewars-B1361E?style=plastic&logo=Codewars&logoColor=3aaded&color=black"
-  /></a>
-  <a href="https://leetcode.com/bkpecho/" 
-    ><img
-      src="https://img.shields.io/badge/-LeetCode-FFA116?style=plastic&logo=LeetCode&logoColor=3aaded&color=black"
-  /></a>
-  <a href="https://www.frontendmentor.io/profile/bkpecho" 
-    ><img
-      src="https://img.shields.io/static/v1?label=&labelColor=black&message=Frontend Mentor&color=black&style=plastic&logo=frontend mentor&logoColor=3aaded"
   /></a>
   <a href="mailto:pechobk@gmail.com" 
     ><img
