@@ -3,19 +3,19 @@
 <p align="right">
    <a href="https://bkpecho.tech/" 
     ><img
-      src="https://img.shields.io/badge/Website-0077B5?style=plastic&logo=esri&logoColor=3aaded&color=black"
+      src="https://img.shields.io/badge/Website-0077B5?style=for-the-badge&logo=esri&logoColor=3aaded&color=black"
   /></a>
   <a href="https://linkedin.com/in/bkpecho" 
     ><img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=3aaded&color=black"
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=3aaded&color=black"
   /></a>
   <a href="https://www.twitter.com/bkpecho" 
     ><img
-      src="https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=3aaded&color=black"
+      src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=3aaded&color=black"
   /></a>
   <a href="mailto:pechobk@gmail.com" 
     ><img
-      src="https://img.shields.io/badge/Let's Talk-D14836?style=plastic&logo=gmail&logoColor=3aaded&color=black"
+      src="https://img.shields.io/badge/Let's Talk-D14836?style=for-the-badge&logo=gmail&logoColor=3aaded&color=black"
   /></a>
 </p>
 <h2>☕ About Me</h2>
