@@ -62,9 +62,6 @@
       <img
         src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB"
       />
-      <img
-        src="https://img.shields.io/badge/Vue.js-35495E?style=plastic&logo=vuedotjs&logoColor=4FC08D"
-      />
     </td>
     <td valign="top">
       <h6>🌐 Back-End Web Development</h6>
@@ -143,16 +140,13 @@
         src="https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white"
       />
       <img
-        src="https://img.shields.io/badge/GitHub%20Pages-222222?style=plastic&logo=GitHub%20Pages&logoColor=white"
-      />
-      <img
         src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"
       />
       <img
-        src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=plastic&logo=Pop!_OS&logoColor=white"
+        src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=plastic&logo=linuxmint&logoColor=white"
       />
       <img
-        src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"
+        src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=plastic&logo=Pop!_OS&logoColor=white"
       />
     </td>
   </tr>
