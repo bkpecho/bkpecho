@@ -22,7 +22,7 @@
 <p>
   Hey everyone!
   
-  My name is Bryan, a software engineer who loves **building websites**. With a degree in *Information Technology*, I bring ideas to life on the internet. Open-source projects and AI get me super excited!
+  My name is Bryan, a software engineer who loves **building websites**. I love working with JavaScript and the MERN stack. When I'm not coding, you'll find me playing the guitar or hanging out with my three doggos. 🐶
   
   Let's **connect, collaborate, and create** amazing online experiences that make a positive impact. If you're interested, let's team up and dive into this adventure together. 💎
 </p>
@@ -217,5 +217,51 @@
         <p><strong>Java, SQLite, Android Studio, Adobe XD, & Powtoon</strong> - Nicotime-Out is an Android application developed as an undergraduate thesis project to help smokers overcome their addiction. It offers a range of features and tools, leveraging mobile technology, to support users on their path to a smoke-free life.</p>
     </td>
   </tr>
- 
 </table>
+
+<h2>⚡️ Nonstop Coding</h2>
+<table>
+  <tr>
+     <td width="33%" valign="center">
+      <h6>🐱‍👤 Codewars Stats Card</h6>
+      <a href="https://www.codewars.com/users/bkpecho">
+        <img
+          title="Codewars Stats Card"
+          alt="Bryan King Pecho's Codewars Stats Card"
+          src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=bkpecho&theme=dark&primaryColor=3aaded"
+        />
+      </a>
+    </td>
+    <td width="33%" valign="top">
+      <h6>🏆 My GitHub Stats</h6>
+      <p align="center">
+        <img
+          title="🔥 Get streak stats for your profile at git.io/streak-stats"
+          alt="BK Pecho's streak"
+          src="https://streak-stats.demolab.com/?user=bkpecho&theme=react&background=black&currStreakNum=white&currStreakLabel=white&fire=3aaded&ring=3aaded&sideNums=3aaded&sideLabels=white&dates=3aaded&hide_border=true"
+        />
+        <a href="https://committers.top/philippines#bkpecho">
+          <img
+            src="https://img.shields.io/static/v1?label=MOST ACTIVE GITHUB USERS IN PH&labelColor=black&message=Top 1%&color=black&style=for-the-badge&logo=github&logoColor=3aaded"
+          />
+        </a>
+      </p> 
+    </td>
+    <td width="33%" valign="center">
+      <h6>📚 LeetCode Stats Card</h6>
+      <p align="center">
+        <a href="https://leetcode.com/bkpecho/">
+          <img
+            title="LeetCode Stats Card"
+            alt="Bryan King Pecho's LeetCode Stats Card"
+            src="https://leetcard.jacoblin.cool/bkpecho?theme=dark&font=Encode%20Sans&hide=ranking"
+          />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<h2>🐱‍🐉 Holopin Badges</h2>
+
+[![An image of @bkpecho's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bkpecho)](https://holopin.io/@bkpecho)
