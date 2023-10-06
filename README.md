@@ -264,4 +264,4 @@
 
 <h2>🐱‍🐉 Holopin Badges</h2>
 
-
+[![An image of @bkpecho's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bkpecho)](https://holopin.io/@bkpecho)
