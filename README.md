@@ -23,8 +23,6 @@
   Hey everyone!
   
   My name is Bryan, a software engineer who loves **building websites**. I love working with JavaScript and the MERN stack. When I'm not coding, you'll find me playing the guitar or hanging out with my three doggos. 🐶
-  
-  Let's **connect, collaborate, and create** amazing online experiences that make a positive impact. If you're interested, let's team up and dive into this adventure together. 💎
 </p>
 
 <h2>🖥️ Technologies and Tools</h2>
