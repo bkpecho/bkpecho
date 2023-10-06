@@ -3,29 +3,29 @@
 <p align="right">
    <a href="https://bkpecho.tech/" 
     ><img
-      src="https://img.shields.io/badge/Website-0077B5?style=for-the-badge&logo=esri&logoColor=3aaded&color=black"
+      src="https://img.shields.io/badge/Website-0077B5?style=plastic&logo=esri&logoColor=3aaded&color=black"
   /></a>
   <a href="https://linkedin.com/in/bkpecho" 
     ><img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=3aaded&color=black"
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=3aaded&color=black"
   /></a>
   <a href="https://www.twitter.com/bkpecho" 
     ><img
-      src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=3aaded&color=black"
+      src="https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=3aaded&color=black"
   /></a>
   <a href="mailto:pechobk@gmail.com" 
     ><img
-      src="https://img.shields.io/badge/Let's Talk-D14836?style=for-the-badge&logo=gmail&logoColor=3aaded&color=black"
+      src="https://img.shields.io/badge/Let's Talk-D14836?style=plastic&logo=gmail&logoColor=3aaded&color=black"
   /></a>
 </p>
-<h2>☕ About Me</h2>
-<p>
-  Hey everyone!
-  
-  My name is Bryan, a software engineer who loves **building websites**. I love working with JavaScript and the MERN stack. When I'm not coding, you'll find me playing the guitar or hanging out with my three doggos. 🐶
-</p>
 
-<h2>🖥️ Technologies and Tools</h2>
+<h2>☕ About Me</h2>
+
+```Greetings! 👋```
+
+```I'm Bryan, a software engineer with a passion for crafting web experiences. My toolbox includes JavaScript and the MERN stack. When I'm not immersed in the digital world, you'll find me strumming my guitar or enjoying the company of my trio of lovable doggos. 🎸🐶```
+
+<h3>🖥️ Technologies and Tools</h3>
 <table>
   <tr>
     <td valign="top">
@@ -138,7 +138,7 @@
   </tr>
 </table>
 
-<h2>🚀 Featured Projects</h2>
+<h3>🚀 Featured Projects</h3>
 <table>
   
   <tr>
@@ -217,7 +217,7 @@
   </tr>
 </table>
 
-<h2>⚡️ Nonstop Coding</h2>
+<h3>⚡️ Nonstop Coding</h3>
 <table>
   <tr>
      <td width="33%" valign="center">
@@ -260,6 +260,6 @@
   </tr>
 </table>
 
-<h2>🐱‍🐉 Holopin Badges</h2>
+<h3>🐱‍🐉 Holopin Badges</h3>
 
 [![An image of @bkpecho's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bkpecho)](https://holopin.io/@bkpecho)
