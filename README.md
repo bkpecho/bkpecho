@@ -21,9 +21,9 @@
 
 <h2>☕ About Me</h2>
 
-```Greetings! 👋```
+`Greetings! 👋`
 
-```I'm Bryan, a software engineer with a passion for crafting web experiences. My toolbox includes JavaScript and the MERN stack. When I'm not immersed in the digital world, you'll find me strumming my guitar or enjoying the company of my trio of lovable doggos. 🎸🐶```
+`I'm Bryan, a software engineer with a passion for crafting web experiences. My toolbox includes JavaScript and the MERN stack. When I'm not immersed in the digital world, you'll find me strumming my guitar or enjoying the company of my trio of lovable doggos. 🎸🐶`
 
 <h3>🖥️ Technologies and Tools</h3>
 <table>
@@ -138,7 +138,7 @@
   </tr>
 </table>
 
-<h3>🚀 Featured Projects</h3>
+<!-- <h3>🚀 Featured Projects</h3>
 <table>
   
   <tr>
@@ -215,7 +215,7 @@
         <p><strong>Java, SQLite, Android Studio, Adobe XD, & Powtoon</strong> - Nicotime-Out is an Android application developed as an undergraduate thesis project to help smokers overcome their addiction. It offers a range of features and tools, leveraging mobile technology, to support users on their path to a smoke-free life.</p>
     </td>
   </tr>
-</table>
+</table> -->
 
 <h3>⚡️ Nonstop Coding</h3>
 <table>
