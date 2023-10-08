@@ -21,9 +21,11 @@
 
 <h2>☕ About Me</h2>
 
-`Greetings! 👋`
+`Hey there! 👋`
 
-`I'm Bryan, a software engineer with a passion for crafting web experiences. My toolbox includes JavaScript and the MERN stack. When I'm not immersed in the digital world, you'll find me strumming my guitar or enjoying the company of my trio of lovable doggos. 🎸🐶`
+`I'm Bryan, a software engineer who's all about creating fantastic web experiences. One of my absolute joys in this field is actively participating in open-source projects.`
+
+`When I'm not deep into the digital realm, you can catch me strumming away on my guitar or cherishing the delightful company of my trio of adorable doggos. 🎸🐶`
 
 <h3>🖥️ Technologies and Tools</h3>
 <table>
@@ -140,7 +142,7 @@
 
 <!-- <h3>🚀 Featured Projects</h3>
 <table>
-  
+
   <tr>
       <td width="50%" valign="top">
       <h3 align="center">💻 Gadget Gizmo</h3>
@@ -152,10 +154,10 @@
         <p align="center">
   <a href="https://github.com/bkpecho/gadgetgizmo">
     <img src="https://img.shields.io/static/v1?label=&message=Repository&color=black&style=plastic&logo=github&logoColor=3aaded"/>
-  </a>  
+  </a>
   <a href="https://gadgetgizmo.shop/">
     <img src="https://img.shields.io/static/v1?label=&message=Live Site&color=black&style=plastic&logo=gitee&logoColor=3aaded"/>
-  </a>  
+  </a>
       </p>
         <p><strong>Node.js, Express, MongoDB, React, Redux, React Bootstrap, Cloudinary, Paypal JS SDK</strong> -  Gadget Gizmo is a robust eCommerce platform developed with the MERN stack and Redux, offering a complete shopping cart experience and streamlined payment processing, including PayPal and credit/debit options.</p>
     </td>
@@ -169,14 +171,14 @@
         <p align="center">
   <a href="https://github.com/bkpecho/handaan">
     <img src="https://img.shields.io/static/v1?label=&message=Repository&color=black&style=plastic&logo=github&logoColor=3aaded"/>
-  </a>  
+  </a>
   <a href="https://handaan.netlify.app/">
     <img src="https://img.shields.io/static/v1?label=&message=Live Site&color=black&style=plastic&logo=netlify&logoColor=3aaded"/>
-  </a>  
+  </a>
       </p>
         <p><strong>JavaScript, AOS, GLightbox, Isotope Layout, Swiper JS, HTML5, CSS3, & Bootstrap</strong> - Handaan is a delightful restaurant landing page with an elegant design, responsive interface, and smooth animations.</p>
     </td>
-    
+
   </tr>
 
    <tr>
@@ -190,10 +192,10 @@
         <p align="center">
    <a href="https://github.com/bkpecho/sushi-delights">
     <img src="https://img.shields.io/static/v1?label=&message=Repository&color=black&style=plastic&logo=github&logoColor=3aaded"/>
-  </a>  
+  </a>
   <a href="https://sushi-delights.vercel.app/">
     <img src="https://img.shields.io/static/v1?label=&message=Live Site&color=black&style=plastic&logo=vercel&logoColor=3aaded"/>
-  </a>  
+  </a>
       </p>
         <p><strong>HTML5, CSS3, JavaScript, AOS, Vite, BEM</strong> - Sushi Delights is a responsive landing page for a sushi restaurant, featuring traditional and innovative sushi dishes with a touch of Japanese culinary excellence.</p>
     </td>
@@ -207,10 +209,10 @@
         <p align="center">
   <a href="https://github.com/bkpecho/Nicotime-Out">
     <img src="https://img.shields.io/static/v1?label=&message=Repository&color=black&style=plastic&logo=github&logoColor=3aaded"/>
-  </a>  
+  </a>
   <a href="https://youtu.be/CYq7Sqg0vU4">
     <img src="https://img.shields.io/static/v1?label=&message=App Demo&color=black&style=plastic&logo=youtube&logoColor=3aaded"/>
-  </a>  
+  </a>
       </p>
         <p><strong>Java, SQLite, Android Studio, Adobe XD, & Powtoon</strong> - Nicotime-Out is an Android application developed as an undergraduate thesis project to help smokers overcome their addiction. It offers a range of features and tools, leveraging mobile technology, to support users on their path to a smoke-free life.</p>
     </td>
