@@ -39,16 +39,22 @@
         src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white"
       />
       <img
+        src="https://img.shields.io/badge/SASS-CC6699?style=plastic&logo=sass&logoColor=white"
+      />
+      <img
         src="https://img.shields.io/badge/Bootstrap-%238511FA?style=plastic&logo=sass&logoColor=white"
       />
       <img
-        src="https://img.shields.io/badge/SASS-CC6699?style=plastic&logo=sass&logoColor=white"
+        src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=plastic&logo=tailwindcss&logoColor=white"
       />
       <img
         src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E"
       />
       <img
         src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB"
+      />
+      <img
+        src="https://img.shields.io/badge/Astro-BC52EE?style=plastic&logo=astro&logoColor=white"
       />
     </td>
     <td valign="top">
@@ -61,6 +67,9 @@
       />
       <img
         src="https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white"
+      />
+      <img
+        src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white"
       />
     </td>
     <td valign="top">
