@@ -37,10 +37,10 @@
       <img src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white" />
-      <img alt="Scratch" src="https://img.shields.io/badge/Scratch-4D97FF.svg?logo=scratch&logoColor=white"></a>
-      <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+      <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white&style=plastic"></a>
       <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-f89820.svg?logo=java&logoColor=white&style=plastic">
       <img src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white" />
+      <img alt="Scratch" src="https://img.shields.io/badge/Scratch-4D97FF.svg?logo=scratch&logoColor=white&style=plastic"></a>
     </td>
     <td valign="top" width="50%">
       <h6>🧰 Frameworks and Libraries</h6>
@@ -50,7 +50,6 @@
       <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Astro-BC52EE?style=plastic&logo=astro&logoColor=white" />
       <img src="https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/React_Native-20232A?style=plastic&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/WordPress-21759b?style=plastic&logo=wordpress&logoColor=white" />
     </td>
   </tr>
