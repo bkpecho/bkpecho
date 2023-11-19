@@ -79,6 +79,7 @@
       <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black" />
       <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=plastic&logo=linuxmint&logoColor=white" />
       <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=plastic&logo=pop!_os&logoColor=white" />
+      <img src="https://img.shields.io/badge/macOS-000000?style=plastic&logo=macos&logoColor=white" />
       <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white" />
     </td>
   </tr>
