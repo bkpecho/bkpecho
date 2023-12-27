@@ -57,11 +57,12 @@
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <h6>🗃️ Databases and Cloud Hosting</h6>
+      <h6>🗃️ Backend Services</h6>
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white" />
       <img src="https://img.shields.io/badge/XAMPP-F37623?style=plastic&logo=xampp&logoColor=white" />
+      <img src="https://img.shields.io/badge/Appwrite-FD366E?style=plastic&logo=appwrite&logoColor=white" />
       <img src="https://img.shields.io/badge/Firebase-039BE5?style=plastic&logo=firebase&logoColor=white" />
       <img src="https://img.shields.io/badge/Supabase-181818?style=plastic&logo=supabase&logoColor=white" />
       <img src="https://img.shields.io/badge/Netlify-00C7B7?style=plastic&logo=netlify&logoColor=white" />
