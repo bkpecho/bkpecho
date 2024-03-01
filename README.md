@@ -45,13 +45,15 @@
     </td>
     <td valign="top" width="50%">
       <h6>🧰 Frameworks and Libraries</h6>
+      <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Next.js-000?style=plastic&logo=nextdotjs&logoColor=fff" />
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=plastic&logo=vuedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=plastic&logo=nuxtdotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Bootstrap-%238511FA?style=plastic&logo=bootstrap&logoColor=white" />
       <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=plastic&logo=tailwindcss&logoColor=white" />
       <img src="https://img.shields.io/badge/SASS-CC6699?style=plastic&logo=sass&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Astro-BC52EE?style=plastic&logo=astro&logoColor=white" />
       <img src="https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=plastic&logo=vuedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/WordPress-21759b?style=plastic&logo=wordpress&logoColor=white" />
     </td>
   </tr>
