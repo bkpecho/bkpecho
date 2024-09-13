@@ -49,22 +49,6 @@
   <!-- Educational Programming -->
 <img alt="Scratch" src="https://img.shields.io/badge/Scratch-4D97FF.svg?logo=scratch&logoColor=white&style=plastic"></a>
 </td>
-    <td valign="top" width="50%">
-      <h6>🧰 Frameworks and Libraries</h6>
-      <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Next.js-000?style=plastic&logo=nextdotjs&logoColor=fff" />
-      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=plastic&logo=vuedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=plastic&logo=nuxtdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Bootstrap-%238511FA?style=plastic&logo=bootstrap&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=plastic&logo=tailwindcss&logoColor=white" />
-      <img src="https://img.shields.io/badge/SASS-CC6699?style=plastic&logo=sass&logoColor=white" />
-      <img src="https://img.shields.io/badge/Astro-BC52EE?style=plastic&logo=astro&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/NestJS-E0234E?style=plastic&logo=nestjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/WordPress-21759b?style=plastic&logo=wordpress&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
 <td valign="top" width="50%">
   <h6>🧰 Frameworks and Libraries</h6>
   <!-- React Ecosystem -->
@@ -85,10 +69,26 @@
   <!-- Content Management Systems -->
   <img src="https://img.shields.io/badge/WordPress-21759b?style=plastic&logo=wordpress&logoColor=white" />
 </td>
+  </tr>
+  <tr>
+     <td valign="top" width="50%">
+      <h6>🗃️ Databases and Backend Services</h6>
+      <!-- Relational Databases -->
+      <img src="https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white" />
+      <!-- NoSQL Databases -->
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=redis&logoColor=white" />
+      <!-- Backend as a Service (BaaS) -->
+      <img src="https://img.shields.io/badge/Firebase-039BE5?style=plastic&logo=firebase&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase-181818?style=plastic&logo=supabase&logoColor=white" />
+      <img src="https://img.shields.io/badge/Appwrite-FD366E?style=plastic&logo=appwrite&logoColor=white" />
+    </td>
    <td valign="top" width="50%">
   <h6>💻 Software and Tools</h6>
   <!-- IDEs and Code Editors -->
-    <img src="https://img.shields.io/badge/Visual Studio Code-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white" />
+   <img src="https://img.shields.io/badge/Visual Studio Code-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=plastic&logo=android-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache%20Netbeans-1B6AC6?style=plastic&logo=apache%20netbeans%20ide&logoColor=white" />
   <!-- Version Control -->
