@@ -5,13 +5,13 @@
     ><img
       src="https://img.shields.io/badge/Website-0077B5?style=plastic&logo=esri&logoColor=3aaded&color=black"
   /></a>
-  <a href="https://linkedin.com/in/bkpecho" 
+<!--   <a href="https://linkedin.com/in/bkpecho" 
     ><img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=3aaded&color=black"
-  /></a>
+  /></a> -->
   <a href="https://www.twitter.com/bkpecho" 
     ><img
-      src="https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=3aaded&color=black"
+      src="https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=x&logoColor=3aaded&color=black"
   /></a>
   <a href="mailto:pechobk@gmail.com" 
     ><img
