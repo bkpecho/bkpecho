@@ -21,11 +21,9 @@
 
 <h2>☕ About Me</h2>
 
-`Greetings,`
+`Hi, I’m Bryan, a software engineer who loves building clean, reliable, and user-friendly web apps. I enjoy tinkering with code, solving tricky problems, and contributing to open-source projects because great things happen when people build together.`
 
-`I'm Bryan, a software engineer focused on crafting high-quality web experiences. I'm particularly passionate about contributing to open-source projects, as I believe in the power of collaborative development.`
-
-`Outside of my professional pursuits, I enjoy playing guitar and spending time with my three dogs. These activities provide a welcome balance to my technical work.`
+`When I’m not coding, you’ll probably find me playing guitar or hanging out with my three dogs. Both keep me grounded and remind me there’s more to life than just staring at a screen.`
 
 <h3>🖥️ Technologies and Tools</h3>
 <table>
